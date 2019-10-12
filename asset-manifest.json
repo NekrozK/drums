@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/drums/static/css/main.d00d845f.chunk.css",
+    "main.css": "/drums/static/css/main.1a8d65ae.chunk.css",
     "main.js": "/drums/static/js/main.04e1d744.chunk.js",
     "main.js.map": "/drums/static/js/main.04e1d744.chunk.js.map",
     "runtime-main.js": "/drums/static/js/runtime-main.f7843d11.js",
@@ -8,14 +8,14 @@
     "static/js/2.7c485a81.chunk.js": "/drums/static/js/2.7c485a81.chunk.js",
     "static/js/2.7c485a81.chunk.js.map": "/drums/static/js/2.7c485a81.chunk.js.map",
     "index.html": "/drums/index.html",
-    "precache-manifest.195e88dd7d02ffcf5275aa46845f80b7.js": "/drums/precache-manifest.195e88dd7d02ffcf5275aa46845f80b7.js",
+    "precache-manifest.239b30807f12da01b3d034baff38d24a.js": "/drums/precache-manifest.239b30807f12da01b3d034baff38d24a.js",
     "service-worker.js": "/drums/service-worker.js",
-    "static/css/main.d00d845f.chunk.css.map": "/drums/static/css/main.d00d845f.chunk.css.map"
+    "static/css/main.1a8d65ae.chunk.css.map": "/drums/static/css/main.1a8d65ae.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.f7843d11.js",
     "static/js/2.7c485a81.chunk.js",
-    "static/css/main.d00d845f.chunk.css",
+    "static/css/main.1a8d65ae.chunk.css",
     "static/js/main.04e1d744.chunk.js"
   ]
 }
