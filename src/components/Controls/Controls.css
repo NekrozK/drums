@@ -93,4 +93,12 @@
     .Controls {
         height: 400px;
     }
+
+    .title {
+        margin-bottom: 40px;
+    }
+
+    .Controls h3 + input {
+        margin-bottom: 20px;
+    }
 }
