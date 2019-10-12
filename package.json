@@ -1,8 +1,8 @@
 {
-  "name": "drum",
+  "name": "drums",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NekrozK.github.io/drums",
+  "homepage": "https://KFengF.github.io/drums",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",

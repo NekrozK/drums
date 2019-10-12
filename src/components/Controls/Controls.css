@@ -88,3 +88,9 @@
     width: 210px;
     margin-bottom: 50px;
 }
+
+@media(max-width: 480px){
+    .Controls {
+        height: 400px;
+    }
+}

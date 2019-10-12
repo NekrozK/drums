@@ -5,3 +5,9 @@
     margin: 10px;
     grid-area: padbank;
 }
+
+@media(max-width: 480px){
+    .PadBank {
+        height: 350px;
+    }
+}
